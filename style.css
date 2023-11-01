@@ -12,6 +12,11 @@ h1 {
     color: #F9FAF8;
 }
 
+.subtext,
+.hero-image {
+    color: #F9FAF8;
+}
+
 button {
     background-color: #3882F6;
     color: white;
@@ -21,4 +26,11 @@ h2 {
     font-size: 36px;
     font-weight: extra-bold;
     color: #1F2937;
+}
+
+.box {
+    border: 3px solid #3882F6;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
 }
