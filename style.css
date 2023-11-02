@@ -34,3 +34,18 @@ h2 {
     width: 150px;
     height: 150px;
 }
+
+.info .text,
+.quote-section .text {
+    color: #1F2937;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote-section .text {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
