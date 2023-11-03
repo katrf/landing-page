@@ -19,20 +19,22 @@ body {
 
 
 .hero .container {
-    /* display: flex;
-    flex-direction: column; */
     padding-right: 30px;
-
 }
 
 .hero-image {
     min-width: 300px;
-    padding: 100px;
+    padding: 110px;
     color: #F9FAF8;
     background-color: #6a737c;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.subtext {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .navbar {
