@@ -24,12 +24,24 @@ body {
 
 .hero-image {
     min-width: 300px;
-    padding: 110px;
-    color: #F9FAF8;
+    padding: 100px;
     background-color: #6a737c;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+.subtext,
+a,
+.hero-image {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .subtext {
@@ -50,12 +62,6 @@ ul {
 }
 
 
-.logo {
-    font-size: 24px;
-    font-weight: bold;
-}
-
-
 h1 {
     display: inline;
     font-size: 48px;
@@ -63,11 +69,7 @@ h1 {
     padding: 0;
 }
 
-.subtext,
-a,
-.logo {
-    color: #F9FAF8;
-}
+
 
 ul {
     list-style-type: none;
