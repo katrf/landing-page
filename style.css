@@ -159,23 +159,40 @@ ul {
     border-radius: 15px;
     /* padding: px; */
 
-    margin: 100px 300px;
+    margin: 100px 200px;
     display: flex;
     justify-content: space-evenly;
 }
 
 .call-to-action .container {
-    margin: 30px;
+    width: 600px;
+    padding: 50px 0;
 }
 
 .main-text {
-    font-size: 18px;
+    font-size: 24px;
     font-weight: bold;
+}
 
+.call-to-action .text {
+    font-size: 18px;
+    font-weight: lighter;
 }
 
 .call-to-action button {
     /* height: 35px; */
     border: 2px solid white;
     align-self: center;
+}
+
+/* .info .text,
+.call-to-action .text {
+    color
+} */
+
+.footer {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
