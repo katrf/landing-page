@@ -43,7 +43,6 @@ h1 {
 a,
 .hero p,
 .hero-image,
-button,
 .footer {
     font-size: 18px;
     color: #E5E7EB;
@@ -81,10 +80,11 @@ h2 {
 button,
 .call-to-action .box {
     background-color: #3882F6;
-    color: #E5E7EB;
+    color: #F9FAF8;
 }
 
 button {
+    font-size: 18px;
     font-weight: bold;
     padding: 8px 35px;
     border-radius: 10px;
@@ -191,7 +191,7 @@ ul {
 } */
 
 .footer {
-    padding: 50px;
+    padding: 35px;
     display: flex;
     justify-content: center;
     align-items: center;
